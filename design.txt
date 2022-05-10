@@ -1,0 +1,2 @@
+Design Decision 1: Add Images
+Design Decision 2: Write Code
