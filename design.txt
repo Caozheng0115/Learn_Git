@@ -1,5 +1,12 @@
 Design Decision 1: Add Images
 Design Decision 2: Write Code
 Design Decision 3: Test Game
+=======
+bugfix
 Bug Fix 1
 Bug Fix 2
+=======
+Adding Experiment features
+Experimental feature 1
+Experimental feature 2
+master
